@@ -1,0 +1,22 @@
+html{
+}
+
+
+body{
+}
+.sliderTangmo{
+	margin-top:10px;
+	
+	}
+
+.bannerTop{
+	margin-bottom:20px;
+	
+}
+
+.fixed-ratio-resize { /* basic responsive img */
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* IE8 */
+}
+

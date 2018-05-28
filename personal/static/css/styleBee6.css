@@ -1,0 +1,42 @@
+.beenav{
+	font-family:calibri;
+}
+
+.beenav1{
+	height:20px;
+	background:#CCCCFF;
+	font-size:12px;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+}
+
+.beenav2{
+	height:20px;
+	background:white;
+	font-size:15px;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+	padding-left:200px;
+}
+
+.beenav2 ul li{
+	padding-left:50px;
+}
+
+.beenav3{
+	height:20px;
+	font-size:15px;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+	padding-left:100px;
+}
+.beenav3 ul li{
+	padding-left:40px;
+}
+.logo_bee{
+	height:47px;
+	width:45px;
+}

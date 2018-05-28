@@ -1,0 +1,40 @@
+.eyeNav1{
+	font-family:Verdana,sans-serif;
+}
+
+.eyeNav1{
+	height:20px;
+	background:#FA8072;
+	font-size:12px;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+}
+.eyeNav2{
+	height:20px;
+	background:white;
+	font-size:12px;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+	padding-left:450px;
+}
+
+.eyeNav3{
+	height:20px;
+	background:white;
+	font-size:12px;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+	padding-left:250px;
+}
+.eyeNav3>ul>li{
+	padding-left:50px;
+	width:45px;
+}
+
+.logo_eye{
+	height:40px;
+	width:45px;
+}

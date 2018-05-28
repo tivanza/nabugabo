@@ -1,0 +1,49 @@
+html{}
+.tangmoNav{
+	font-family:calibri;
+	}
+
+
+.tangmoNav1{
+	height:20px;
+	background:#33FFCC;
+	font-size:12px;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+
+}
+
+
+.tangmoNav2{
+	height:20px;
+	background:white;
+	font-size:12px;
+	margin-top:10px !important;
+	margin-bottom:0px !important;
+	border-radius:0px;
+	border:0px;
+	padding-left:400px;
+
+}
+
+.tangmoNav3{
+	height:20px;
+	background:white;
+	font-size:18px;
+	margin-bottom:0px !important;
+	margin-top:0px !important;
+	border-radius:0px;
+	border:0px;
+	padding-left:150px;
+
+}
+
+.tangmoNav3 ul li{
+margin-left:50px;
+}
+
+.logo_tangmo{
+	height:40px;
+	width:45px;
+}
