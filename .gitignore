@@ -1,0 +1,5 @@
+// Here you add files that you dont have to commit in to the git repo
+
+
+.vscode/
+venv
