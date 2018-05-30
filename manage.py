@@ -3,12 +3,6 @@ import os
 import sys
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "web1.settings")
-
-    from django.core.management import execute_from_command_line
-
-=======
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "dJangoTamgo1.settings")
     try:
         from django.core.management import execute_from_command_line
@@ -25,5 +19,4 @@ if __name__ == "__main__":
                 "forget to activate a virtual environment?"
             )
         raise
->>>>>>> b88def802edd1ea7d854bc1bad5315ba45b157a9
     execute_from_command_line(sys.argv)
